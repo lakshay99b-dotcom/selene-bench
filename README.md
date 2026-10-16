@@ -14,42 +14,8 @@ Interactive **Earth–Moon physics laboratory** for study. True-scale Newtonian 
 
 ## Quick start
 
-```bash
-npm install
-npm run dev
-```
-
-Open the URL Vite prints (usually http://localhost:5173).
-
-## Deploy to Vercel
-
-This is a standard Vite SPA — Vercel works out of the box.
-
-### Option A — Git (recommended)
-
-1. Push this folder to a GitHub/GitLab/Bitbucket repo
-2. [vercel.com/new](https://vercel.com/new) → import the repo
-3. Framework preset: **Vite** (auto-detected)
-4. Build command: `npm run build` · Output: `dist`
-5. Deploy
-
-`vercel.json` already configures SPA rewrites so client routes work.
-
-### Option B — CLI
-
-```bash
-npm i -g vercel
-npm run build
-vercel --prod
-```
-
-### Option C — Static upload
-
-```bash
-npm run build
-```
-
-Upload the `dist/` folder to any static host (Vercel, Netlify, Cloudflare Pages, GitHub Pages).
+go to https://advisory-gray-xyuz9gon.edgeone.dev/
+or https://selene-bench.vercel.app/
 
 ## Controls
 
